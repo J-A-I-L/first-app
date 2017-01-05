@@ -1,6 +1,8 @@
 # FirstApp
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
+This project is the first application of Maximilian Schwarzmüller's Angular 2 course. 
+Link to the course: https://www.udemy.com/the-complete-guide-to-angular-2
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
